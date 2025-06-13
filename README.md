@@ -1,5 +1,5 @@
 # MovieLens 100K Data Analysis with PySpark and Zeppelin
-
+![](Cover_Image_3.png)
 **Author:** WANG RONGCHENG  
 **Metric Number:** P150280
 
